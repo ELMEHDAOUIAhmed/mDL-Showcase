@@ -33,7 +33,7 @@ A modern, dark-themed website to showcase a Mobile Driving License Solution comp
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/mDL-Showcase.git
+   git clone https://github.com/ELMEHDAOUIAhmed/mDL-Showcase.git
    cd mDL-Showcase
 
 2. **Install dependencies:**
